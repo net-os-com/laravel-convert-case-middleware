@@ -1,6 +1,6 @@
 <?php
 
-namespace Programic\LaravelConvertCaseMiddleware;
+namespace NetOS\LaravelConvertCaseMiddleware;
 
 use Closure;
 use Illuminate\Http\JsonResponse;
